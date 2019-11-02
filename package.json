@@ -45,7 +45,7 @@
     "nodemailer": "^4.6.3",
     "path": "^0.12.7",
     "randomstring": "^1.1.5",
-    "sequelize": "^4.37.3",
+    "sequelize": "^5.15.1",
     "swagger-node-express": "^2.1.3",
     "tempfile": "^2.0.0",
     "tmp": "0.0.33",
