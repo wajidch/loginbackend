@@ -6,7 +6,7 @@
   "author": "",
   "dependencies": {
     "apn": "^2.1.5",
-    "async": "^2.5.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.125.0",
     "bcrypt": "^3.0.6",
     "bluebird": "^3.5.1",
